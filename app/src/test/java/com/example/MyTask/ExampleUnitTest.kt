@@ -1,4 +1,4 @@
-package com.example.mvvmretrofitrecyclerviewkotlin
+package com.example.MyTask
 
 import org.junit.Test
 import org.junit.Assert.*
